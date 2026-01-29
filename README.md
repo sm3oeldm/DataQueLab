@@ -67,3 +67,17 @@ The project is implemented in Python using Jupyter notebooks and emphasizes **un
 
 ## 📁 Project Structure
 
+├── Lecture01.ipynb # Missing values and basic cleaning
+├── Lecture02.ipynb # Date/time handling and preprocessing
+├── Lecture03.ipynb # Scaling, normalization, and transformations
+└── README.md
+
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   pip install pandas numpy scipy matplotlib
